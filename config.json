@@ -1,0 +1,9 @@
+{
+  "application": {
+    "port": 3000
+  },
+  "pixsell": {
+    "endpoint": "https://jsonplaceholder.typicode.com/posts",
+    "key": "kajhbsdljfkblasbdkjfblakjsbdklfs==========="
+  }
+}
