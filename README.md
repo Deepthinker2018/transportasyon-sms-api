@@ -4,7 +4,13 @@
 
 ## Before anything else
 
-Create a directory named `lib/` thats all thanks.
+Run `npm install` to install all needed dependencies.
+
+Create a directory named `lib/`
+
+For more configurations please refer to `config.json` file.
+
+Thats all thanks.
 
 ## Compiling
 
