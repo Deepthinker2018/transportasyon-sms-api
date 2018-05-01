@@ -17,6 +17,7 @@ class Send {
   send(recipient: number, message: string, sender: number): Promise<object> {
     let pixsellAccessor = new PixsellAccessor(this._enpoint)
     return pixsellAccessor.broadcast({
+      key: this._key,
       recipient: recipient,
       message: message,
       sender: sender

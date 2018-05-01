@@ -3,7 +3,7 @@
     "port": 3000
   },
   "pixsell": {
-    "endpoint": "https://jsonplaceholder.typicode.com/posts",
-    "key": "kajhbsdljfkblasbdkjfblakjsbdklfs==========="
+    "endpoint": "http://test.pixsell.com.ph/PixsellOutboundSMSAPI/PixsellOutboundSMS/postSMS",
+    "key": "5DE9B768E59C35020FBE53C3099E3F12822080F0ED5703C1CBA625FBE154BA80"
   }
 }
